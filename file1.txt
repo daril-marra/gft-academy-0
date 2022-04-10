@@ -1,3 +1,7 @@
 ciaaao!
 
+<<<<<<< HEAD
 sto modificando! fork
+=======
+sto modificando! normale
+>>>>>>> edoardo-conchetto
