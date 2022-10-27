@@ -1,5 +1,5 @@
 Questo è il primo file
 
-ora però è modificato
+ora però è modificato e questa è la prova 1 del conflitto
 
 questa è la terza modifica che faccio
