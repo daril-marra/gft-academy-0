@@ -4,6 +4,8 @@ Stati dei files in un progetto git:
 3.	COMMITTED: files salvati all’interno della repository attraverso lo snapshot eseguito dal commit. Questi files sono ora considerati come non modificati (unmodified) in quanto la loro modifica è stata registrata nella cronologia di progetto
 4.  UNTRACKED: i files in questo stato non sono ancora aggiunti al progetto
 
+Aggiungo questa riga al file1
+
 A questi primi tre stati corrispondono le tre sezioni di un progetto git:
 1.	Working Tree (chiamato anche Working Directory o area di lavoro) ove risiedono i files in stato modified assieme alla versione corrente dei files non modificati
 2.	Staging Area ove risiedono i file marcati come staged
