@@ -1,1 +1,3 @@
-Anche questo è un file di prova, però dentro una sottocartella
+Anche questo è un file di prova, però dentro una sottocartella.
+
+Prova per il pull, vediamo come va.
