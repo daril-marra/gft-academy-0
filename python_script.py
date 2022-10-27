@@ -1,6 +1,7 @@
 def main():
     print('hello world')
     for i in range(10):
+        print(i-1)
         print(i+1)
     print('goodbye world')
 
