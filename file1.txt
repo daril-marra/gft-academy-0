@@ -6,5 +6,7 @@ Stati dei files in un progetto git:
 
 A questi primi tre stati corrispondono le tre sezioni di un progetto git:
 1.	Working Tree (chiamato anche Working Directory o area di lavoro) ove risiedono i files in stato modified assieme alla versione corrente dei files non modificati
-2.	Staging Area ove risiedono i file marcati come staged
+2.	Staging Area ove risiedono i file marcati come staged (git add .)
 3.	Cartella .git (la Repository locale) ove risiedono tutti i files committati in ogni versione
+
+ciao
