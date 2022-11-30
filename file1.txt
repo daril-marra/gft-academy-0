@@ -3,9 +3,10 @@ CONFLITTO!! 1.	MODIFIED: files modificati la cui modifica non è ancora stata �
 CONFLITTO!! 2.	STAGED: i files modificati possono essere marcati per essere inseriti all’interno del prossimo snapshot che verrà creato col commit, quando succede i file passano in stato staged
 CONFLITTO!! 3.	COMMITTED: files salvati all’interno della repository attraverso lo snapshot eseguito dal commit. Questi files sono ora considerati come non modificati (unmodified) in quanto la loro modifica è stata registrata nella cronologia di progetto
 CONFLITTO!! 4.  UNTRACKED: i files in questo stato non sono ancora aggiunti al progetto
-CONFLITTO!! 
+CONFLITTO!! ALTRO. prima modifica casuale
 CONFLITTO!! A questi primi tre stati corrispondono le tre sezioni di un progetto git:
 CONFLITTO!! 1.	Working Tree (chiamato anche Working Directory o area di lavoro) ove risiedono i files in stato modified assieme alla versione corrente dei files non modificati
 CONFLITTO!! 2.	Staging Area ove risiedono i file marcati come staged
 CONFLITTO!! 3.	Cartella .git (la Repository locale) ove risiedono tutti i files committati in ogni versione
 CONFLITTO!!
+ALTRO. Seconda modifica casuale
