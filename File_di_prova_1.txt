@@ -1,3 +1,4 @@
 prova per corso git
 prova merge
-priva pull
+prova pull
+prova conflitti
