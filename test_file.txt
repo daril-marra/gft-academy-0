@@ -2,4 +2,4 @@ test_committ_1
 aaaa
 smthsmth
 prova per push/pull
-test per eventuali conflittos
+test per eventuali conflitti
