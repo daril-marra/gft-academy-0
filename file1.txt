@@ -8,4 +8,4 @@
 !!CONFLITTO !! 1.	Working Tree (chiamato anche Working Directory o area di lavoro) ove risiedono i files in stato modified assieme alla versione corrente dei files non modificati
 !!CONFLITTO !! 2.	Staging Area ove risiedono i file marcati come staged
 !!CONFLITTO !! 3.	Cartella .git (la Repository locale) ove risiedono tutti i files committati in ogni versione
-!!
+!!jjjjknn-n
