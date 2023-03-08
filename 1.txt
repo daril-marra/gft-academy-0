@@ -1,2 +1,2 @@
-hello world!
-welcome to GFT  git!
+ciao!
+welcome to GFT git!
