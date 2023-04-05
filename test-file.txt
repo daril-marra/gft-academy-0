@@ -1,2 +1,2 @@
 Benvenuti al corso Git!
-Come state?
+Come state? Tutto bene?
