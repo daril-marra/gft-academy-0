@@ -1,0 +1,2 @@
+Benvenuti al corso GIT! 
+Come vi trovate?
