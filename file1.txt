@@ -1,4 +1,5 @@
 corso git
 modifiche anche se tanto non avevo salvato
-altri conflitti
+altre modifiche
+creiamo conflitto?
 ciao
