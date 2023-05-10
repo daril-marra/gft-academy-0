@@ -1,3 +1,4 @@
 Hello, git!
 This is a brand new line!
 Another line, another commit!
+Add line in branch eolocon that will conflict with eolocon-fork
