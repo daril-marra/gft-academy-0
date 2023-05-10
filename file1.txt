@@ -1,2 +1,2 @@
 Benvenuti al corso GIT! 
-Come vi trovate?
+Sapete da cosa deriva il nome git?
