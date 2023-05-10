@@ -1,2 +1,2 @@
 Benvenuti al corso GIT! 
-Sapete da cosa deriva il nome git?
+Sapete da cosa deriva il nome git? Linus ha voluto chiamarlo come un insulto a se stesso
