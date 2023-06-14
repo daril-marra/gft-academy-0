@@ -1,4 +1,4 @@
 Oggi 14/06 si sta tenendo il corso di git
 
 
-Update: sto seguendo il corso
+Update: sto seguendo il corso. Però sto facendo una prova per i conflitti
