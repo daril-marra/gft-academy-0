@@ -1,6 +1,8 @@
 prova git file 1
 
-prova git file 1 conflixxo mexxe 
+
+prova git file 1 merge conflitto => conflitto mergiato
+
 9
 8
 7
