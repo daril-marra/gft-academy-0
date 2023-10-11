@@ -1,3 +1,3 @@
 hello world! 
 have a nice day!
-Did you know git? It's the most used VCS in the world!
+Did you know git? It was created bu Linus Torvalds and it's the most used VCS in the world!
