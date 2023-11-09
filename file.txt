@@ -1,1 +1,2 @@
 hello everybody!
+this is a lesson on GIT fundamentals!
