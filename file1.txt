@@ -1,2 +1,2 @@
 Welcome everybody!
-This is a lesson on GIT fundamentals
+This is a lesson on GIT fundamentals, Git was created By Linus Torvalds
