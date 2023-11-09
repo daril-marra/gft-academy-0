@@ -1,1 +1,2 @@
-Welcome!
+Welcome! 
+This is page of git course.
