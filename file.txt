@@ -1,2 +1,2 @@
 hello everybody!
-this is a lesson on GIT fundamentals!
+this is a lesson on GIT fundamentals! GIT has a market share of over 90%!
