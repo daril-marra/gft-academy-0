@@ -1,2 +1,2 @@
 hello everybody!
-this is a lesson on GIT fundamentals! GIT has a market share of over 90%!
+this is a lesson on GIT fundamentals! Git was created by Linus Torvalds and has a market share of over 90%!
