@@ -9,3 +9,4 @@
 !!CONFLITT 2.	Staging Area ove risiedono i file marcati come staged
 !!CONFLITT 3.	Cartella .git (la Repository locale) ove risiedono tutti i files committati in ogni versione
 !! CONF
+modifica file1
