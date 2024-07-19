@@ -1,2 +1,3 @@
-secondo file 
-print("hello")
+def main:
+	print("hello world")
+	print("Have a nice day")
